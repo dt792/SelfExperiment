@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessLearning", "ProcessLearning.csproj", "{BBB0215C-142F-40E9-A34A-735D7CE77DC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessLearning", "ProcessLearning.csproj", "{BBB0215C-142F-40E9-A34A-735D7CE77DC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "..\ConsoleApp\ConsoleApp.csproj", "{768415B2-65DE-4C75-B951-9C7D68707C8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "..\ConsoleApp\ConsoleApp.csproj", "{768415B2-65DE-4C75-B951-9C7D68707C8C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "..\PythonApplication1\PythonApplication1.pyproj", "{5CD746AC-870D-4C60-B6FC-F9E4BAABB4D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,8 @@ Global
 		{768415B2-65DE-4C75-B951-9C7D68707C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{768415B2-65DE-4C75-B951-9C7D68707C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{768415B2-65DE-4C75-B951-9C7D68707C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD746AC-870D-4C60-B6FC-F9E4BAABB4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD746AC-870D-4C60-B6FC-F9E4BAABB4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
